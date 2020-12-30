@@ -7,24 +7,38 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-----------------------------------------------------
+```CSS
+OZark Crashing in login? 
+try to inject mod menu manually.
 
-```markdown
-Syntax highlighted code block
+Ozark website: https://ozark.gg/login.html
 
-# Header 1
-## Header 2
-### Header 3
+1 Login & Download latest version of Ozark,   (Make sure you have virus protection off and download files correctly)
 
-- Bulleted
-- List
+2 Open OZark.rar/zip.      Unzip "Ozark" folder to your Documents,  (C:\Users\YOURNAME\Documents\Ozark)
 
-1. Numbered
-2. List
+3 Open Documents > Ozark > Ozark.auth open as notepad and put your username & password 
 
-**Bold** and _Italic_ and `Code` text
+4 Download https://www105.zippyshare.com/v/oH19HxDe/file.html  Injector  (Xenos64)
 
-[Link](url) and ![Image](src)
+5 Open RDR2 (Main menu)
+
+6 Open injector load processes "RDR2.exe" 
+ 
+7 Add inject file >Documents>Ozark>Red Dead Redemption 2 > bypass.dll
+
+8 Inject and it should be injected manually.
+
+if you need any help with OZark RDR2 please pm me Yamato#1771
 ```
+```diff
+- Do NOT go over 10 gold pickups per day (24 hours IRL)
+```
+```diff
+-  not recommend going over 100 gold (1 map) per day. 
+```
+-----------------------------------------------------
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
